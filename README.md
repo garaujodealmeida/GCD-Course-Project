@@ -37,7 +37,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 ####Tidy data
 https://github.com/ssirbill/GCD-Course-Project/blob/master/tidy_data.txt
 
-Tidy data is group by subject and activity. All other variables is a mean of raw data. 
+#####Tidy data is group by subject and activity. All other variables is a mean of raw data. 
 
 Tidy data variables: 
     "subject"
