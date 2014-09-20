@@ -31,13 +31,13 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
     4- Appropriately labels the data set with descriptive variable names. 
     5- From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
     
-#####As Davi Hood posted, transformation process: 
+#####Transformation process posted by Davi Hood on Discussion Forum: 
 <img src="https://coursera-forum-screenshots.s3.amazonaws.com/ab/a2776024af11e4a69d5576f8bc8459/Slide2.png">
 
 ####Tidy data
 https://github.com/ssirbill/GCD-Course-Project/blob/master/tidy_data.txt
 
-#####Tidy data is group by subject and activity. All other variables is a mean of raw data. 
+#####Tidy data is group by subject and activity. All other variables are mean of raw data. 
 
 Tidy data variables: 
     "subject"
