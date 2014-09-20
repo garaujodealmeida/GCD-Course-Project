@@ -20,11 +20,14 @@ This repository is for submetting Getting and Cleaning Data Course Project from 
 
 ### 2) Code Book 
 
-Raw datat: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+Raw data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+
 Tidy data: https://github.com/ssirbill/GCD-Course-Project/blob/master/tidy_data.txt
 
-As Davi Hood posted, transformation process and instructions: 
+As Davi Hood posted, transformation process: 
 <img src="https://coursera-forum-screenshots.s3.amazonaws.com/ab/a2776024af11e4a69d5576f8bc8459/Slide2.png">
+
+Instructions:
 
     1- Merges the training and the test sets to create one data set.
     2- Extracts only the measurements on the mean and standard deviation for each measurement. 
