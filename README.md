@@ -19,3 +19,8 @@ This repository is for submetting Getting and Cleaning Data Course Project from 
     9) Write final tidy data
 
 ### 2) Code Book 
+
+Here are the orignal data for the project: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+As Davi Hood posted, the data flow is exactly that: 
+<img src="https://coursera-forum-screenshots.s3.amazonaws.com/ab/a2776024af11e4a69d5576f8bc8459/Slide2.png">
