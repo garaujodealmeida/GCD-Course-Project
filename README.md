@@ -20,11 +20,10 @@ This repository is for submetting Getting and Cleaning Data Course Project from 
 
 ### 2) Code Book 
 
-Raw data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+####Raw data
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-Tidy data: https://github.com/ssirbill/GCD-Course-Project/blob/master/tidy_data.txt
-
-Instructions:
+####Instructions:
 
     1- Merges the training and the test sets to create one data set.
     2- Extracts only the measurements on the mean and standard deviation for each measurement. 
@@ -32,9 +31,11 @@ Instructions:
     4- Appropriately labels the data set with descriptive variable names. 
     5- From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
     
-As Davi Hood posted, transformation process: 
+#####As Davi Hood posted, transformation process: 
 <img src="https://coursera-forum-screenshots.s3.amazonaws.com/ab/a2776024af11e4a69d5576f8bc8459/Slide2.png">
 
+####Tidy data
+https://github.com/ssirbill/GCD-Course-Project/blob/master/tidy_data.txt
 
 Tidy data is group by subject and activity. All other variables is a mean of raw data. 
 
@@ -107,6 +108,3 @@ Tidy data variables:
     "fBodyBodyAccJerkMag-std()"
     "fBodyBodyGyroMag-std()"
     "fBodyBodyGyroJerkMag-std()"
-                
-
-
